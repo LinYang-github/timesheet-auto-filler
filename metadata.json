@@ -1,0 +1,4 @@
+{
+  "name": "Timesheet Auto-Filler",
+  "description": "A tool to automatically generate weekly timesheet data based on standard monthly working hours and a corpus of task descriptions."
+}
